@@ -4,7 +4,7 @@
 --- 
 <img src="Images/img.jpg" width="500" height="400" /> 
 
-Select the titles to go to the relevant sections.
+Resources include books, websites, other repositories, and academic papers relevant to the domain or topic. Select the titles to go to the relevant sections.
 
 ### Resources 
 <details close>
