@@ -7,9 +7,9 @@
 # 📌 Find
 resource_types = ["Books 📚", "Websites 💻", "Other Repos", "Academic Papers"]
 
-topics_or_areas = {"Programming 🧑‍💻": ["Python", "R"],
-                   "Statistics 📊": ["Coming Soon!"],
-                   "Econometrics 📈": ["OLS Regression Analysis & Time Series",
+topics_or_areas = {"Programming": ["Python", "R"],
+                   "Statistics": ["Coming Soon!"],
+                   "Econometrics": ["OLS Regression Analysis & Time Series",
                                     "Microeconometrics & Statistical Models", 
                                     "Applied Econometrics & Causal Inference",
                                     "Computational Methods in Econometrics"],}  
