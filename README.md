@@ -88,8 +88,8 @@ Python algorithms and data structures: books, websites and other github repos
 ‣ Great Github repos!
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | --- | --- |
-| The Algorithms | Search up any algorithm to find out more | [Link](https://github.com/TheAlgorithms/Python) | Learn |
-| Paragraph | Text | Link |
+| The Algorithms | Search up any algorithm to find out more | <a href="https://github.com/TheAlgorithms/Python" target="_blank">Link</a> | Learn |
+| Paragraph | Text | Link | Learn |
 
 <a name="apps_py"></a> 
 ## 🎯 Apps 
