@@ -2,7 +2,7 @@
 **Repo with resources I've come across online, all in one place!**
 
 --- 
-<img src="Images/thumbnail.png" width="500" height="270" /> 
+<img src="Images/img.jpg" width="500" height="270" /> 
 Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jess Bailey</a> on <a href="https://unsplash.com/photos/close-up-photography-of-two-pencils-on-closed-pink-covered-book-on-desk-near-macbook-air-in-a-well-lit-room-K47Tk9IEQPQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 
