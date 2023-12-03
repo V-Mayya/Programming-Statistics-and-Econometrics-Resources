@@ -5,7 +5,7 @@
 <img src="Images/img.jpg" width="500" height="400" /> 
 
 <details close>
-<summary> 🎯 <b> Programming </b> </summary>
+<summary> <b> Programming </b> </summary>
 <br> 
   
 ## Contents 
@@ -25,7 +25,7 @@
 (currently Python and R primarily)
 
 <a name="fundamentals_py"></a>  
-## Fundamentals  
+## 🎯 Fundamentals  
 Python fundamentals: books, websites and other github repos
 
 ‣ Books 📚 
