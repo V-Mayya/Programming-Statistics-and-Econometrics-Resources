@@ -4,7 +4,7 @@
 --- 
 <img src="Images/thumbnail.png" width="500" height="270" /> 
 
-‣ FAQ <br/> 
+‣ FAQ 
 
 <details close>
 <summary><b>I don't see a lot of popular resources. Why?</b></summary>
