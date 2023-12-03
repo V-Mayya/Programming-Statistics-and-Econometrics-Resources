@@ -135,7 +135,9 @@ Coming soon!
 <details close>
 <summary> How can I contribute? </summary>
 <br>
-- 
+- This repo certainly isn't exhaustive, so I'd be glad to receive any contributions! 
+<br> 
+- If you would like to, please get in touch.
 </details>
 
 <details close>
@@ -144,12 +146,6 @@ Coming soon!
 - The topics interest me and will help me keep track of my progress and learning as well. 
  <br>
 - Having everything in one place makes it much easier to find resources when I need to without having to search all my saved/bookmarked resources (that's probably not organised well too!)
-</details>
-
-<details close>
-<summary> I can't find a lot of popular resources. Why? </summary>
-<br>
-- I'm working on adding as many resources as I can when I have the time to (and find any new ones)
 </details>
 
 Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jess Bailey</a> on <a href="https://unsplash.com/photos/close-up-photography-of-two-pencils-on-closed-pink-covered-book-on-desk-near-macbook-air-in-a-well-lit-room-K47Tk9IEQPQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
