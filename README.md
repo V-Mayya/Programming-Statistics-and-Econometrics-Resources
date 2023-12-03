@@ -16,13 +16,13 @@
 - [Fundamentals](#fundamentals_py)
 - [Data analytics & Data Science](#data_py)
 - [Algorithms & Data Structures](#algo_py)
-- [Apps](#apps_py)
+- [Apps + Others](#apps_py)
  
 📌 **R**
 - [Fundamentals](#fundamentals_r)
 - [Data analytics & Data Science](#data_r)
 - [Algorithms & Data Structures](#algo_r)
-- [Apps](#apps_r)
+- [Apps + Others](#apps_r)
 
 (currently Python and R primarily)
 
@@ -42,7 +42,7 @@ Python fundamentals: books, websites and other github repos
 | Header | Title | Link | Learn | 
 | Python Cheatsheet | For quick reference, covering various topics (loops, functions, OOP and more). Based on 'Automate the Boring Stuff with Python' book and other sources. | [Link](https://www.pythoncheatsheet.org/) | Learn |
 
-‣ Great Github repos!
+‣ Github repos
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | ---- | --- |
 | Full Speed Python | For self-learners with topics and exercises | [Link](https://github.com/joaoventura/full-speed-python) | Learn + Practice (exercises from the Superior School of Technology of Setúbal) |  
@@ -66,7 +66,7 @@ Python data analytics and data science resources: books, websites and other gith
 | Header | Title | Link | Learn | 
 | PandasAI | Combining data analysis with AI and making the process conversational! | [Link](https://docs.pandas-ai.com/en/latest/) | Practice |
 
-‣ Great Github repos!
+‣ Github repos
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
@@ -90,17 +90,17 @@ Python algorithms and data structures: books, websites and other github repos
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
-‣ Great Github repos!
+‣ Github repos
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | --- | --- |
 | The Algorithms | Search up any algorithm to find out more | [Link](https://github.com/TheAlgorithms/Python) | Learn |
-| Paragraph | Text | Link | Learn |
+| Advanced Data Structures with Python | Algorithms and data structures uses and examples, especially useful for competitive programming | [Link](https://github.com/bhavinjawade/Advanced-Data-Structures-with-Python) | Learn |
 
 [Back to contents](#contents_prog)
 
 <a name="apps_py"></a> 
-## 🎯 Apps 
-Python apps: books, websites and other github repos
+## 🎯 Apps + Others
+Python apps + other areas: books, websites and other github repos
 
 ‣ Books 📚
 | Name | Description | Link 🔗 | Learn/Practice |
@@ -112,13 +112,13 @@ Python apps: books, websites and other github repos
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
-| Paragraph | Text | Link | Practice |
+| ReactPy | Text | [Link](https://reactpy.dev/docs/index.html) | Practice |
 
-‣ Great Github repos!
+‣ Github repos
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | --- | --- |
 | Header | Title | Link | Learn |
-| Paragraph | Text | Link | Learn |
+| PyWebIO | Building web applications without the need for HTML and JS | [Link](https://github.com/pywebio/PyWebIO) | Practice |
 
 [Back to contents](#contents_prog)
 
@@ -166,6 +166,16 @@ Coming soon!
 - The resources are intended to suit individuals with varying backgrounds.    
  <br>
 - You can get an idea of the levels by reading the descriptions and selecting the relevant links.
+</details> 
+
+<details close>
+<summary> Additional notes </summary>
+<br>
+-> Some resources have a github repository and a website. For these, I have included them in one of the sections only. 
+<br> 
+-> All of the resources listed here are intended to be entirely free to use, thereby omitting some popular resources. 
+<br>
+- Don't forget to share this with anyone who might find it useful as well!
 </details> 
 
 Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jess Bailey</a> on <a href="https://unsplash.com/photos/close-up-photography-of-two-pencils-on-closed-pink-covered-book-on-desk-near-macbook-air-in-a-well-lit-room-K47Tk9IEQPQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
