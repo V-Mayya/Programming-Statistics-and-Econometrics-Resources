@@ -151,6 +151,14 @@ Coming soon!
 - Having everything in one place makes it much easier to find resources when I need to without having to search through resources I've saved in various locations (that's probably not organised well too!)
 </details>
 
+<details close>
+<summary> Are these resources suitable for those with a beginner, intermediate, or advanced background? </summary>
+<br>
+- The resources are intended to suit individuals with varying backgrounds. There's something for everyone!   
+ <br>
+- You can find out the levels by reading the descriptions and selecting the relevant links.
+</details> 
+
 Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jess Bailey</a> on <a href="https://unsplash.com/photos/close-up-photography-of-two-pencils-on-closed-pink-covered-book-on-desk-near-macbook-air-in-a-well-lit-room-K47Tk9IEQPQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
 
 ---  
