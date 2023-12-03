@@ -4,6 +4,7 @@
 --- 
 <img src="Images/img.jpg" width="500" height="400" /> 
 
+### Resources 
 <details close>
 <summary> <b> Programming </b> 🧑‍💻 </summary>
 <br> 
