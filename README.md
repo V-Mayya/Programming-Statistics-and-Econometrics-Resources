@@ -223,7 +223,7 @@ Coming soon!
 <br>
 - Any contributions are welcome, as this repo is not exhaustive. 
 <br> 
-- If you would like to, please get in touch on Linkedin or email [in my profile homepage (readme or site)].
+- If you would like to, please get in touch on Linkedin or email (in my profile homepage: readme or site) or feel free to make a pull request.
 <br>
 - Don't forget to share this with anyone who might find it useful!
 </details>
