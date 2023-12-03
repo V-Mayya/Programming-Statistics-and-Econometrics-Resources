@@ -11,10 +11,10 @@
 ## Contents 
 
 - **Python**
-  📌 [Fundamentals](#fundamentals_py)
-  📌 [Data analytics & Data Science](#data_py)
-  📌 [Algorithms & Data Structures](#algo_py)
-  📌 [Apps](#apps_py)
+  <br> 📌 [Fundamentals](#fundamentals_py)
+  <br> 📌 [Data analytics & Data Science](#data_py)
+  <br> 📌 [Algorithms & Data Structures](#algo_py)
+  <br> 📌 [Apps](#apps_py)
  
 - **R**
   1. [Fundamentals](#fundamentals_r)
