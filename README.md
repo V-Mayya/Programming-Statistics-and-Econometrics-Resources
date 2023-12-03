@@ -2,7 +2,6 @@
 **Resources I've come across online, all in one place!**
 
 --- 
-<br>
 
 <details close>
 <summary> <b> Programming </b> </summary>
