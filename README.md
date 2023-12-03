@@ -72,7 +72,7 @@ Python data analytics and data science resources: books, websites and other gith
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
-| Awesome Public Datasets | A list of brilliant public datasets in various domains (ranging from climate to cancer)| [Link](https://github.com/awesomedata/awesome-public-datasets#economics) | Practice | 
+| Awesome Public Datasets | A list of public datasets in various domains (ranging from climate to cancer)| [Link](https://github.com/awesomedata/awesome-public-datasets#economics) | Practice | 
 
 [Back to contents](#contents_prog)
 
