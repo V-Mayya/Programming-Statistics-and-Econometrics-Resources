@@ -10,17 +10,17 @@
   
 ## Contents 
 
-- **Python**
-  <br> 📌 [Fundamentals](#fundamentals_py)
-  <br> 📌 [Data analytics & Data Science](#data_py)
-  <br> 📌 [Algorithms & Data Structures](#algo_py)
-  <br> 📌 [Apps](#apps_py)
+📌 **Python**
+- [Fundamentals](#fundamentals_py)
+- [Data analytics & Data Science](#data_py)
+- [Algorithms & Data Structures](#algo_py)
+- [Apps](#apps_py)
  
-- **R**
-  <br> 📌 [Fundamentals](#fundamentals_r)
-  <br> 📌 [Data analytics & Data Science](#data_r)
-  <br> 📌 [Algorithms & Data Structures](#algo_r)
-  <br> 📌 [Apps](#apps_r)
+📌 **R**
+- [Fundamentals](#fundamentals_r)
+- [Data analytics & Data Science](#data_r)
+- [Algorithms & Data Structures](#algo_r)
+- [Apps](#apps_r)
 
 (currently Python and R primarily)
 
