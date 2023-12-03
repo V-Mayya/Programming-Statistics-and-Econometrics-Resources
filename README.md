@@ -30,7 +30,7 @@ Python fundamentals: books, websites and other github repos
 ‣ Books
 | Name | Description | Link | Learn/Practice |
 | :---: | ----------- | --- | --- |
-| Header | Title | Link | <mark>Learn</mark> | 
+| Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Websites 
