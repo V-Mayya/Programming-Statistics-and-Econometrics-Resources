@@ -254,6 +254,4 @@ Coming soon!
 - All of the resources listed here are intended to be entirely free to use, thereby omitting some popular resources. Please refer to the contribute section if you would like to add anything that's missing.
 </details> 
 
-Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jess Bailey</a> on <a href="https://unsplash.com/photos/close-up-photography-of-two-pencils-on-closed-pink-covered-book-on-desk-near-macbook-air-in-a-well-lit-room-K47Tk9IEQPQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
-
 ---  
