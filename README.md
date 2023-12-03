@@ -8,8 +8,9 @@
 <details close>
 <summary> <b> Programming </b> 🧑‍💻 </summary>
 <br> 
-  
-## Contents 
+
+<a name="contents_prog"></a> 
+## Contents
 
 📌 **Python**
 - [Fundamentals](#fundamentals_py)
@@ -46,6 +47,8 @@ Python fundamentals: books, websites and other github repos
 | --- | ----------- | ---- | --- |
 | Full Speed Python | For self-learners with topics and exercises | [Link](https://github.com/joaoventura/full-speed-python) | Learn + Practice (exercises from the Superior School of Technology of Setúbal) |  
 | Paragraph | Text | Link | Practice |
+
+[Back to contents](#contents_prog)
 
 <a name="data_py"></a>  
 ## 🎯 Data analytics & Data Science 
