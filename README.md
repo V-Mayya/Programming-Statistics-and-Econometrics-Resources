@@ -2,6 +2,8 @@
 **Resources I've come across online, all in one place!**
 
 --- 
+<img src="Images/img.jpg" width="500" height="400" /> 
+
 <details close>
 <summary> <b> Programming </b> </summary>
 <br> 
@@ -167,7 +169,6 @@ Python apps: books, websites and other github repos
 - Having everything in one place makes it much easier to find resources when I need to without having to search all my saved/bookmarked resources (that's probably not organised well too!)
 </details>
 
-<img src="Images/img.jpg" width="500" height="400" /> 
 Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jess Bailey</a> on <a href="https://unsplash.com/photos/close-up-photography-of-two-pencils-on-closed-pink-covered-book-on-desk-near-macbook-air-in-a-well-lit-room-K47Tk9IEQPQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
 
 ---  
