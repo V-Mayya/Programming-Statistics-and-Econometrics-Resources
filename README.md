@@ -9,7 +9,7 @@ resources = {1: "Books", 2: "Websites",
              3: "Other Github Repositories", 4: "Academic Papers",}  
 ```
 
-> Select the titles to go to the relevant sections.
+Select the titles to go to the relevant sections.
 
 ### Resources 
 <details close>
@@ -37,7 +37,7 @@ resources = {1: "Books", 2: "Websites",
 
 <a name="fundamentals_py"></a>  
 ## 🎯 Fundamentals  
-Python fundamentals: books, websites and other github repos
+> Python fundamentals: books, websites and other github repos
 
 ‣ Books 📚 
 | Name | Description | Link 🔗 | Learn/Practice |
@@ -61,7 +61,7 @@ Python fundamentals: books, websites and other github repos
 
 <a name="data_py"></a>  
 ## 🎯 Data analytics & Data Science 
-Python data analytics and data science resources: books, websites and other github repos
+> Python data analytics and data science resources: books, websites and other github repos
 
 ‣ Books 📚 
 | Name | Description | Link 🔗 | Learn/Practice |
@@ -85,7 +85,7 @@ Python data analytics and data science resources: books, websites and other gith
 
 <a name="machine_py"></a>  
 ## 🎯 Machine Learning 
-Machine Learning in Python: books, websites and other github repos
+> Machine Learning in Python: books, websites and other github repos
 
 ‣ Books 📚 
 | Name | Description | Link 🔗 | Learn/Practice |
@@ -107,7 +107,7 @@ Machine Learning in Python: books, websites and other github repos
 
 <a name="algo_py"></a> 
 ## 🎯 Algorithms & Data Structures 
-Python algorithms and data structures: books, websites and other github repos
+> Python algorithms and data structures: books, websites and other github repos
 
 ‣ Books 📚
 | Name | Description | Link 🔗 | Learn/Practice |
@@ -131,7 +131,7 @@ Python algorithms and data structures: books, websites and other github repos
 
 <a name="apps_py"></a> 
 ## 🎯 Apps + Others
-Python apps + other areas: books, websites and other github repos
+> Python apps + other areas: books, websites and other github repos
 
 ‣ Books 📚
 | Name | Description | Link 🔗 | Learn/Practice |
