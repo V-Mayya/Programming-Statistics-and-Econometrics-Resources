@@ -9,7 +9,6 @@
 <br> 
   
 ## Contents 
-(currently Python and R primarily) 
 
 - **Python**
   1. [Fundamentals](#fundamentals_py)
@@ -22,6 +21,8 @@
   2. [Data analytics & Data Science](#data_r)
   3. [Algorithms & Data Structures](#algo_r)
   4. [Apps](#apps_r)
+
+(currently Python and R primarily)
 
 <a name="fundamentals_py"></a>  
 ## Fundamentals  
