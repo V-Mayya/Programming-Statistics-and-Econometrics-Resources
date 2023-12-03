@@ -30,7 +30,7 @@ Python fundamentals: books, websites and other github repos
 ‣ Books
 | Name | Description | Link | Learn/Practice |
 | :---: | ----------- | --- | --- |
-| Header | Title | Link | Learn | 
+|  | |  | | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Websites 
@@ -40,10 +40,10 @@ Python fundamentals: books, websites and other github repos
 | Paragraph | Text | Link | Practice |
 
 ‣ Great Github repos!
-| Name | Description | Link |
-| :---: | ----------- | --- |
-| Header | Title | Link |
-| Paragraph | Text | Link | 
+| Name | Description | Link | Learn/Practice |
+| :---: | ----------- | --- | --- |
+| Full Speed Python | For self-learners with topics and exercises | [Link](https://github.com/joaoventura/full-speed-python) | Learn + Practice (exercises from the Superior School of Technology of Setúbal) |  
+| Paragraph | Text | Link | Practice |
 
 <a name="data_py"></a>  
 ## Data analytics & Data Science 
