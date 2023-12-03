@@ -7,60 +7,60 @@ Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopy
 
 ## Programming 
 ‣ Books
-| Syntax | Description | Link |
-| --- | ----------- | --- |
+| Name | Description | Link |
+| :---: | ----------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
 ‣ Websites 
-| Syntax | Description | Link |
-| --- | ----------- | --- |
+| Name | Description | Link |
+| :---: | ----------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
 ‣ Great Github repos!
-| Syntax | Description | Link |
-| --- | ----------- | --- |
+| Name | Description | Link |
+| :---: | ----------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
 ## Statistics 
 
 ‣ Books
-| Syntax | Description | Link |
-| --- | ----------- | --- |
+| Name | Description | Link |
+| :---: | ----------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
 ‣ Websites 
-| Syntax | Description | Link |
-| --- | ----------- | --- |
+| Name | Description | Link |
+| :---: | ----------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
 ‣ Great Github repos!
-| Syntax | Description | Link |
-| --- | ----------- | --- |
+| Name | Description | Link |
+| :---: | ----------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
 ## Econometrics + Causal Inference
 
 ‣ Books
-| Syntax | Description | Link |
-| --- | ----------- | --- |
+| Name | Description | Link |
+| :---: | ----------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
 ‣ Websites 
-| Syntax | Description | Link |
-| --- | ----------- | --- |
+| Name | Description | Link |
+| :---: | ----------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
 ‣ Great Github repos!
-| Syntax | Description | Link |
-| --- | ----------- | --- |
+| Name | Description | Link |
+| :---: | ----------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
