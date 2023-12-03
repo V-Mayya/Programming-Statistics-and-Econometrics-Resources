@@ -8,12 +8,12 @@
 resources = ["Books", "Websites", "Other Repos", "Academic Papers"]
 
 # 📌 on these 
-topics_or_areas = {"Programming": ["Python", "R"],
-                   "Statistics": ["Coming Soon!"],
-                   "Econometrics": ["OLS Regression Analysis & Time Series",
-                                    "Microeconometrics & Statistical Models", 
-                                    "Applied Econometrics & Causal Inference",
-                                    "Computational Methods in Econometrics"],}  
+topics = {"Programming": ["Python", "R"],
+          "Statistics": ["Coming Soon!"],
+          "Econometrics": ["OLS Regression Analysis & Time Series",
+                           "Microeconometrics & Statistical Models", 
+                           "Applied Econometrics & Causal Inference",
+                           "Computational Methods in Econometrics"],}  
 ```
 
 Select the below titles to go to the relevant sections.
