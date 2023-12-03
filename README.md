@@ -138,7 +138,9 @@ Coming soon!
 <br>
 - This repo certainly isn't exhaustive, so I'd be glad to receive any contributions! 
 <br> 
-- If you would like to, please get in touch.
+- If you would like to, please get in touch on Linkedin or email on [my site](https://vaibhavimayya.carrd.co/).
+<br>
+- Feel free to share this with anyone who might find it useful.
 </details>
 
 <details close>
