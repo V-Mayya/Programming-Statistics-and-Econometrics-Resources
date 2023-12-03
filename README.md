@@ -7,7 +7,7 @@
 <details close>
 <summary> <b> Programming </b> </summary>
 <br> 
-
+  
 ## Contents 
 (currently Python and R primarily) 
 
