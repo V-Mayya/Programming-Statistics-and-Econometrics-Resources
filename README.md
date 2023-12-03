@@ -148,7 +148,7 @@ Coming soon!
 <br>
 - The topics interest me and will help me keep track of my progress and learning as well. 
  <br>
-- Having everything in one place makes it much easier to find resources when I need to without having to search all my saved/bookmarked resources (that's probably not organised well too!)
+- Having everything in one place makes it much easier to find resources when I need to without having to search through resources I've saved in various locations (that's probably not organised well too!)
 </details>
 
 Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jess Bailey</a> on <a href="https://unsplash.com/photos/close-up-photography-of-two-pencils-on-closed-pink-covered-book-on-desk-near-macbook-air-in-a-well-lit-room-K47Tk9IEQPQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
