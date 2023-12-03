@@ -9,9 +9,11 @@ resources = ["Books", "Websites", "Other Repos", "Academic Papers"]
 
 # 📌 on these 
 topics = {"Programming": ["Python", "R"],
+
           "Statistics": ["Coming Soon!"],
+
           "Econometrics": ["OLS Regression Analysis & Time Series",
-                           "Microeconometrics & Statistical Models", 
+                           "Microeconometrics & Statistical Models",
                            "Applied Econometrics & Causal Inference",
                            "Computational Methods in Econometrics"],}  
 ```
