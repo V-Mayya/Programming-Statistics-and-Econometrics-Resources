@@ -4,6 +4,8 @@
 --- 
 <img src="Images/img.jpg" width="500" height="400" /> 
 
+Select the titles to go to the relevant sections.
+
 ### Resources 
 <details close>
 <summary> <b> Programming </b> 🧑‍💻 </summary>
