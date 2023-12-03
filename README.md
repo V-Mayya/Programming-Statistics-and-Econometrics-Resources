@@ -4,9 +4,67 @@
 --- 
 <img src="Images/img.jpg" width="500" height="400" /> 
 Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jess Bailey</a> on <a href="https://unsplash.com/photos/close-up-photography-of-two-pencils-on-closed-pink-covered-book-on-desk-near-macbook-air-in-a-well-lit-room-K47Tk9IEQPQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  
 
-‣ FAQ 
+## Programming 
+‣ Books
+| Syntax | Description | Link |
+| --- | ----------- | --- |
+| Header | Title | Link |
+| Paragraph | Text | Link | 
+
+‣ Websites 
+| Syntax | Description | Link |
+| --- | ----------- | --- |
+| Header | Title | Link |
+| Paragraph | Text | Link | 
+
+‣ Great Github repos!
+| Syntax | Description | Link |
+| --- | ----------- | --- |
+| Header | Title | Link |
+| Paragraph | Text | Link | 
+
+## Statistics 
+
+‣ Books
+| Syntax | Description | Link |
+| --- | ----------- | --- |
+| Header | Title | Link |
+| Paragraph | Text | Link | 
+
+‣ Websites 
+| Syntax | Description | Link |
+| --- | ----------- | --- |
+| Header | Title | Link |
+| Paragraph | Text | Link | 
+
+‣ Great Github repos!
+| Syntax | Description | Link |
+| --- | ----------- | --- |
+| Header | Title | Link |
+| Paragraph | Text | Link | 
+
+## Econometrics + Causal Inference
+
+‣ Books
+| Syntax | Description | Link |
+| --- | ----------- | --- |
+| Header | Title | Link |
+| Paragraph | Text | Link | 
+
+‣ Websites 
+| Syntax | Description | Link |
+| --- | ----------- | --- |
+| Header | Title | Link |
+| Paragraph | Text | Link | 
+
+‣ Great Github repos!
+| Syntax | Description | Link |
+| --- | ----------- | --- |
+| Header | Title | Link |
+| Paragraph | Text | Link | 
+
+### Questions
 
 <details close>
 <summary><b>I don't see a lot of popular resources. Why?</b></summary>
