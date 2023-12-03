@@ -5,8 +5,9 @@
 
 ```python
 # 📌 Find
-resource_types = ["Books 📚", "Websites 💻", "Other Repos", "Academic Papers"]
+resources = ["Books", "Websites", "Other Repos", "Academic Papers"]
 
+# 📌 on these 
 topics_or_areas = {"Programming": ["Python", "R"],
                    "Statistics": ["Coming Soon!"],
                    "Econometrics": ["OLS Regression Analysis & Time Series",
@@ -15,7 +16,7 @@ topics_or_areas = {"Programming": ["Python", "R"],
                                     "Computational Methods in Econometrics"],}  
 ```
 
-Select the titles to go to the relevant sections.
+Select the below titles to go to the relevant sections.
 
 ### Resources 
 <details close>
