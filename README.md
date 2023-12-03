@@ -8,7 +8,7 @@ Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopy
 ## Programming 
 ‣ Books
 | Name | Description | Link |
-| :---: | ----------- | --- |
+| :--------: | ------------------------------------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
