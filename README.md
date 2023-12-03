@@ -19,4 +19,5 @@
  <br>
 - Having everything in one place makes it much easier to find resources when I need to without having to search all my saved/bookmarked resources (that's probably not organised well too!)
 </details>
+
 ---  
