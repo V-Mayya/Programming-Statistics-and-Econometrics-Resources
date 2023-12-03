@@ -7,7 +7,7 @@ Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopy
 <br>
 
 <details close>
-<summary><b> Programming </b></summary>
+<summary># Programming </summary>
 <br>
 
 ## Contents 
