@@ -60,7 +60,7 @@ Python data analytics and data science resources: books, websites and other gith
 ‣ Websites 💻
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | --- | --- |
-| Header | Title | Link | Learn | 
+| Header | Title | <a href="https://www.geeksforgeeks.org/dplyr-package-in-r-programming/" target = "_blank">link</a> Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Great Github repos!
