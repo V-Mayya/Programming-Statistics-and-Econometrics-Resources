@@ -1,7 +1,6 @@
 # Programming, Statistics, and Econometrics Resources
 
 --- 
-<img src="Images/img.jpg" width="500" height="400" /> 
 
 ```python
 # 📌 Find
