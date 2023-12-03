@@ -252,6 +252,8 @@ Coming soon!
 - Resources with a github repository and website are only included in either of the two sections. 
 <br> 
 - All of the resources listed here are intended to be entirely free to use, thereby omitting some popular resources. Please refer to the contribute section if you would like to add anything that's missing.
+<br>
+- I'm working to add more resources when I find any and get the time to.
 </details> 
 
 ---  
