@@ -11,20 +11,20 @@
 ## Contents 
 (currently Python and R primarily) 
 
-- Python
+- **Python**
   1. [Fundamentals](#fundamentals_py)
   2. [Data analytics & Data Science](#data_py)
   3. [Algorithms & Data Structures](#algo_py)
   4. [Apps](#apps_py)
  
-- R
+- **R**
   1. [Fundamentals](#fundamentals_r)
   2. [Data analytics & Data Science](#data_r)
   3. [Algorithms & Data Structures](#algo_r)
   4. [Apps](#apps_r)
 
 <a name="fundamentals_py"></a>  
-#### Fundamentals  
+## Fundamentals  
 Python fundamentals: books, websites and other github repos
 
 ‣ Books
@@ -46,7 +46,7 @@ Python fundamentals: books, websites and other github repos
 | Paragraph | Text | Link | 
 
 <a name="data_py"></a>  
-#### Data analytics & Data Science 
+## Data analytics & Data Science 
 Python data analytics and data science resources: books, websites and other github repos
 
 ‣ Books
@@ -68,7 +68,7 @@ Python data analytics and data science resources: books, websites and other gith
 | Paragraph | Text | Link | 
 
 <a name="algo_py"></a> 
-#### Algorithms & Data Structures 
+## Algorithms & Data Structures 
 Python algorithms and data structures: books, websites and other github repos
 
 ‣ Books
@@ -90,7 +90,7 @@ Python algorithms and data structures: books, websites and other github repos
 | Paragraph | Text | Link |
 
 <a name="apps_py"></a> 
-#### Apps 
+## Apps 
 Python apps: books, websites and other github repos
 
 ‣ Books
