@@ -17,7 +17,7 @@ topics = {"Programming": ["Python", "R"],
                            "Computational Methods in Econometrics"],}  
 ```
 
-Select the below titles to go to the relevant sections.
+Select the **below titles** to go to the relevant sections.
 
 ### Resources 
 <details close>
