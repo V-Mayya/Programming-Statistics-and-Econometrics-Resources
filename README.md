@@ -22,40 +22,9 @@ Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopy
   4. [Apps](#apps_r)
 
 
-#### Fundamentals (Python) </b> <a name="fundamentals_py"></a> </summary>
+#### Fundamentals </b> <a name="fundamentals_py"></a> </summary>
 Python fundamentals: books, websites and other github repos
 
-<details close>  
-<summary><b> Books </b> </summary>
-  
-| Name | Description | Link | Learn/Practice |
-| :---: | ----------- | --- | --- |
-| Header | Title | Link | Learn | 
-| Paragraph | Text | Link | Practice |
-</details>  
-
-<details close>  
-<summary><b> Websites </b> </summary>
-  
-| Name | Description | Link | Learn/Practice |
-| :---: | ----------- | --- | --- |
-| Header | Title | Link | Learn | 
-| Paragraph | Text | Link | Practice |
-</details> 
-
-<details close>  
-<summary><b> Great Github Repos </b> </summary>
-  
-| Name | Description | Link | Learn/Practice |
-| :---: | ----------- | --- | --- |
-| Header | Title | Link | Learn | 
-| Paragraph | Text | Link | Practice |
-</details> 
-
-<details close> 
- <summary><b> Data analytics and Data Science (Python) </b> <a name="data_py"></a> </summary>
-<br>
- 
 ‣ Books
 | Name | Description | Link | Learn/Practice |
 | :---: | ----------- | --- | --- |
@@ -73,12 +42,10 @@ Python fundamentals: books, websites and other github repos
 | :---: | ----------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
-</details> 
 
-<details close> 
- <summary><b> Algorithms & Data Structures (Python) </b> <a name="algo_py"></a> </summary>
-<br>
- 
+#### Data analytics & Data Science </b> <a name="data_py"></a> </summary>
+Python data analytics and data science resources: books, websites and other github repos
+
 ‣ Books
 | Name | Description | Link | Learn/Practice |
 | :---: | ----------- | --- | --- |
@@ -96,12 +63,10 @@ Python fundamentals: books, websites and other github repos
 | :---: | ----------- | --- |
 | Header | Title | Link |
 | Paragraph | Text | Link | 
-</details> 
 
-<details close> 
- <summary><b> Apps (Python) </b> <a name="apps_py"></a> </summary>
-<br>
- 
+#### Algorithms & Data Structures </b> <a name="algo_py"></a> </summary>
+Python algorithms and data structures: books, websites and other github repos
+
 ‣ Books
 | Name | Description | Link | Learn/Practice |
 | :---: | ----------- | --- | --- |
@@ -118,8 +83,28 @@ Python fundamentals: books, websites and other github repos
 | Name | Description | Link |
 | :---: | ----------- | --- |
 | Header | Title | Link |
-| Paragraph | Text | Link | 
-</details> 
+| Paragraph | Text | Link |
+
+#### Apps </b> <a name="apps_py"></a> </summary>
+Python apps: books, websites and other github repos
+
+‣ Books
+| Name | Description | Link | Learn/Practice |
+| :---: | ----------- | --- | --- |
+| Header | Title | Link | Learn | 
+| Paragraph | Text | Link | Practice |
+
+‣ Websites 
+| Name | Description | Link | Learn/Practice |
+| :---: | ----------- | --- | --- |
+| Header | Title | Link | Learn | 
+| Paragraph | Text | Link | Practice |
+
+‣ Great Github repos!
+| Name | Description | Link |
+| :---: | ----------- | --- |
+| Header | Title | Link |
+| Paragraph | Text | Link |
 
 ## Statistics 
 
