@@ -138,9 +138,9 @@ Coming soon!
 <br>
 - This repo certainly isn't exhaustive, so I'd be glad to receive any contributions! 
 <br> 
-- If you would like to, please get in touch on Linkedin or email linked in my profile readme or site.
+- If you would like to, please get in touch on Linkedin or email in my profile readme or site.
 <br>
-- Feel free to share this with anyone who might find it useful.
+- Don't forget to share this with anyone who might find it useful as well!
 </details>
 
 <details close>
