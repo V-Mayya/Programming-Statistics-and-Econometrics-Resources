@@ -113,45 +113,21 @@ Python apps: books, websites and other github repos
 
 </details> 
 
-## Statistics 
+<details close>
+<summary> <b> Statistics </b> </summary>
+<br> 
 
-‣ Books
-| Name | Description | Link |
-| :---: | ----------- | --- |
-| Header | Title | Link |
-| Paragraph | Text | Link | 
+Coming soon! 
 
-‣ Websites 
-| Name | Description | Link |
-| :---: | ----------- | --- |
-| Header | Title | Link |
-| Paragraph | Text | Link | 
+</details> 
 
-‣ Great Github repos!
-| Name | Description | Link |
-| :---: | ----------- | --- |
-| Header | Title | Link |
-| Paragraph | Text | Link | 
+<details close>
+<summary> <b> Econometrics + Causal Inference </b> </summary>
+<br> 
 
-## Econometrics + Causal Inference
+Coming soon! 
 
-‣ Books
-| Name | Description | Link |
-| :---: | ----------- | --- |
-| Header | Title | Link |
-| Paragraph | Text | Link | 
-
-‣ Websites 
-| Name | Description | Link |
-| :---: | ----------- | --- |
-| Header | Title | Link |
-| Paragraph | Text | Link | 
-
-‣ Great Github repos!
-| Name | Description | Link |
-| :---: | ----------- | --- |
-| Header | Title | Link |
-| Paragraph | Text | Link | 
+</details> 
 
 ### Questions
 
