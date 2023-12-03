@@ -136,9 +136,9 @@ Coming soon!
 <details close>
 <summary> How can I contribute? </summary>
 <br>
-- This repo certainly isn't exhaustive, so I'd be glad to receive any contributions! 
+- This repo certainly isn't exhaustive, so I'd be glad to receive any contributions. 
 <br> 
-- If you would like to, please get in touch on Linkedin or email in my profile readme or site.
+- If you would like to, please get in touch on Linkedin or email in my profile homepage (readme or site).
 <br>
 - Don't forget to share this with anyone who might find it useful as well!
 </details>
