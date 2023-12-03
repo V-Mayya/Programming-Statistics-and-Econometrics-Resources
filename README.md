@@ -21,8 +21,8 @@ Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopy
   3. [Algorithms & Data Structures](#algo_r)
   4. [Apps](#apps_r)
 
-
-#### Fundamentals </b> <a name="fundamentals_py"></a> </summary>
+<a name="fundamentals_py"></a>  
+#### Fundamentals  
 Python fundamentals: books, websites and other github repos
 
 ‣ Books
@@ -43,7 +43,8 @@ Python fundamentals: books, websites and other github repos
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
-#### Data analytics & Data Science </b> <a name="data_py"></a> </summary>
+<a name="data_py"></a>  
+#### Data analytics & Data Science 
 Python data analytics and data science resources: books, websites and other github repos
 
 ‣ Books
@@ -64,7 +65,8 @@ Python data analytics and data science resources: books, websites and other gith
 | Header | Title | Link |
 | Paragraph | Text | Link | 
 
-#### Algorithms & Data Structures </b> <a name="algo_py"></a> </summary>
+<a name="algo_py"></a> 
+#### Algorithms & Data Structures 
 Python algorithms and data structures: books, websites and other github repos
 
 ‣ Books
@@ -85,7 +87,8 @@ Python algorithms and data structures: books, websites and other github repos
 | Header | Title | Link |
 | Paragraph | Text | Link |
 
-#### Apps </b> <a name="apps_py"></a> </summary>
+<a name="apps_py"></a> 
+#### Apps 
 Python apps: books, websites and other github repos
 
 ‣ Books
