@@ -64,7 +64,7 @@ Python data analytics and data science resources: books, websites and other gith
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
-| Paragraph | Text | Link | Practice |
+| PandasAI | Combining data analysis with AI and making the process conversational! | [Link](https://docs.pandas-ai.com/en/latest/) | Practice |
 
 ‣ Great Github repos!
 | Name | Description | Link 🔗 | Learn/Practice |
