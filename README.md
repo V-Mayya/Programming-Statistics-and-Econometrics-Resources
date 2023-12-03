@@ -9,8 +9,10 @@ resource_types = ["Books", "Websites", "Other Repos", "Academic Papers"]
 
 topics_or_areas = {"Programming": ["Python", "R"],
                    "Statistics": ["Coming Soon!"],
-                   "Econometrics": ["OLS regression analysis", "Microeconometrics & Statistical Models", "Time Series"
-                                    "Applied Econometrics & Causal Inference", "Computational Methods in Econometrics"],}  
+                   "Econometrics": ["OLS Regression Analysis & Time Series",
+                                    "Microeconometrics & Statistical Models", 
+                                    "Applied Econometrics & Causal Inference",
+                                    "Computational Methods in Econometrics"],}  
 ```
 
 Select the titles to go to the relevant sections.
