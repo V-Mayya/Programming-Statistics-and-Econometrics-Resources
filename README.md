@@ -221,11 +221,11 @@ Coming soon!
 <details close>
 <summary> How can I contribute? </summary>
 <br>
-- Any contributions are welcome, as this repo is certainly not exhaustive. 
+- Any contributions are welcome, as this repo is not exhaustive. 
 <br> 
 - If you would like to, please get in touch on Linkedin or email [in my profile homepage (readme or site)].
 <br>
-- Don't forget to share this with anyone who might find it useful as well!
+- Don't forget to share this with anyone who might find it useful!
 </details>
 
 <details close>
@@ -249,7 +249,7 @@ Coming soon!
 <details close>
 <summary> Additional notes </summary>
 <br>
-- Some resources have a github repository and a website. For these, I have included them in one of the sections only. 
+- Resources with a github repository and website are only included in either of the two sections. 
 <br> 
 - All of the resources listed here are intended to be entirely free to use, thereby omitting some popular resources. Please refer to the contribute section if you would like to add anything that's missing.
 </details> 
