@@ -1,5 +1,5 @@
 # Programming, Statistics, and Econometrics Resources
-**All resources I've come across online in one place!**
+**Resources I've come across over several years in one place!**
 
 --- 
 <img src="Images/img.jpg" width="500" height="400" /> 
