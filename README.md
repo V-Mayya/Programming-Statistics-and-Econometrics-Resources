@@ -31,19 +31,19 @@ Python fundamentals: books, websites and other github repos
 
 ‣ Books 📚 
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| --- | ----------- | --- | --- |
 |  | |  | | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Websites 💻
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Great Github repos!
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | ---- | --- |
+| --- | ----------- | ---- | --- |
 | Full Speed Python | For self-learners with topics and exercises | [Link](https://github.com/joaoventura/full-speed-python) | Learn + Practice (exercises from the Superior School of Technology of Setúbal) |  
 | Paragraph | Text | Link | Practice |
 
@@ -53,19 +53,19 @@ Python data analytics and data science resources: books, websites and other gith
 
 ‣ Books 📚 
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Websites 💻
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Great Github repos!
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Awesome Public Datasets | A list of brilliant public datasets in various domains (ranging from climate to cancer)| [Link](https://github.com/awesomedata/awesome-public-datasets#economics) | Practice | 
 
@@ -75,19 +75,19 @@ Python algorithms and data structures: books, websites and other github repos
 
 ‣ Books 📚
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Websites 💻
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Great Github repos!
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| --- | ----------- | --- | --- |
 | The Algorithms | Search up any algorithm to find out more | [Link](https://github.com/TheAlgorithms/Python) | Learn |
 | Paragraph | Text | Link |
 
@@ -97,19 +97,19 @@ Python apps: books, websites and other github repos
 
 ‣ Books 📚
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Websites 💻
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Great Github repos!
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| --- | ----------- | --- | --- |
 | Header | Title | Link | Learn |
 | Paragraph | Text | Link | Learn |
 
