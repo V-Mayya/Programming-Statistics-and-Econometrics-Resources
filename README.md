@@ -231,7 +231,7 @@ Coming soon!
 <details close>
 <summary> Why these resources/areas in particular? </summary>
 <br>
-- The topics interest me and will help me keep track of my progress and learning (and hope this does the same for you as well!) They are also suited for those interested in careers or topics at the intersection of econometrics, statistics and programming.
+- The topics interest me and will help me keep track of my progress and learning (and hope this does the same for you as well!) They are also suited for those interested in (academic or professional) careers or topics at the intersection of econometrics, statistics and programming.
  <br>
 - Resources in the econometrics and statistics sections provide guidance on statistical models, causal inference, time series analysis, and more, making them especially useful for those interested in data science and machine learning. Each of the statistics and econometrics areas also has resources on applications to programming as well.
  <br>
