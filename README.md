@@ -13,7 +13,7 @@
 </details>
 
 <details close>
-<summary><b>Why these resources in particular?</b></summary>
+<summary><b>Why these resources/areas in particular?</b></summary>
 <br>
 - The topics interest me and will help me keep track of my progress and learning as well. 
  <br>
