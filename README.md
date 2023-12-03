@@ -11,10 +11,10 @@
 ## Contents 
 
 - **Python**
-  1. [Fundamentals](#fundamentals_py)
-  2. [Data analytics & Data Science](#data_py)
-  3. [Algorithms & Data Structures](#algo_py)
-  4. [Apps](#apps_py)
+  📌 [Fundamentals](#fundamentals_py)
+  📌 [Data analytics & Data Science](#data_py)
+  📌 [Algorithms & Data Structures](#algo_py)
+  📌 [Apps](#apps_py)
  
 - **R**
   1. [Fundamentals](#fundamentals_r)
@@ -28,20 +28,20 @@
 ## Fundamentals  
 Python fundamentals: books, websites and other github repos
 
-‣ Books
-| Name | Description | Link | Learn/Practice |
+‣ Books 📚 
+| Name | Description | Link 🔗 | Learn/Practice |
 | :---: | ----------- | --- | --- |
 |  | |  | | 
 | Paragraph | Text | Link | Practice |
 
-‣ Websites 
-| Name | Description | Link | Learn/Practice |
+‣ Websites 💻
+| Name | Description | Link 🔗 | Learn/Practice |
 | :---: | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Great Github repos!
-| Name | Description | Link | Learn/Practice |
+| Name | Description | Link 🔗 | Learn/Practice |
 | :---: | ----------- | --- | --- |
 | Full Speed Python | For self-learners with topics and exercises | [Link](https://github.com/joaoventura/full-speed-python) | Learn + Practice (exercises from the Superior School of Technology of Setúbal) |  
 | Paragraph | Text | Link | Practice |
@@ -50,42 +50,42 @@ Python fundamentals: books, websites and other github repos
 ## Data analytics & Data Science 
 Python data analytics and data science resources: books, websites and other github repos
 
-‣ Books
-| Name | Description | Link | Learn/Practice |
+‣ Books 📚 
+| Name | Description | Link 🔗 | Learn/Practice |
 | :---: | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
-‣ Websites 
-| Name | Description | Link | Learn/Practice |
+‣ Websites 💻
+| Name | Description | Link 🔗 | Learn/Practice |
 | :---: | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Great Github repos!
-| Name | Description | Link |
-| :---: | ----------- | --- |
-| Header | Title | Link |
-| Awesome Public Datasets | A list of brilliant public datasets in various domains (ranging from climate to cancer)| [Link](https://github.com/awesomedata/awesome-public-datasets#economics) | 
+| Name | Description | Link 🔗 | Learn/Practice |
+| :---: | ----------- | --- | --- |
+| Header | Title | Link | Learn | 
+| Awesome Public Datasets | A list of brilliant public datasets in various domains (ranging from climate to cancer)| [Link](https://github.com/awesomedata/awesome-public-datasets#economics) | Practice | 
 
 <a name="algo_py"></a> 
 ## Algorithms & Data Structures 
 Python algorithms and data structures: books, websites and other github repos
 
-‣ Books
-| Name | Description | Link | Learn/Practice |
+‣ Books 📚
+| Name | Description | Link 🔗 | Learn/Practice |
 | :---: | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
-‣ Websites 
-| Name | Description | Link | Learn/Practice |
+‣ Websites 💻
+| Name | Description | Link 🔗 | Learn/Practice |
 | :---: | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Great Github repos!
-| Name | Description | Link | Learn/Practice |
+| Name | Description | Link 🔗 | Learn/Practice |
 | :---: | ----------- | --- | --- |
 | The Algorithms | Search up any algorithm to find out more | [Link](https://github.com/TheAlgorithms/Python) | Learn |
 | Paragraph | Text | Link |
@@ -94,23 +94,23 @@ Python algorithms and data structures: books, websites and other github repos
 ## Apps 
 Python apps: books, websites and other github repos
 
-‣ Books
-| Name | Description | Link | Learn/Practice |
+‣ Books 📚
+| Name | Description | Link 🔗 | Learn/Practice |
 | :---: | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
-‣ Websites 
-| Name | Description | Link | Learn/Practice |
+‣ Websites 💻
+| Name | Description | Link 🔗 | Learn/Practice |
 | :---: | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
 
 ‣ Great Github repos!
-| Name | Description | Link |
-| :---: | ----------- | --- |
-| Header | Title | Link |
-| Paragraph | Text | Link |
+| Name | Description | Link 🔗 | Learn/Practice |
+| :---: | ----------- | --- | --- |
+| Header | Title | Link | Learn |
+| Paragraph | Text | Link | Learn |
 
 </details> 
 
