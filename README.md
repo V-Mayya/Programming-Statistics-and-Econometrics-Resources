@@ -5,8 +5,13 @@
 
 ```python
 # Find
-resources = {1: "Books", 2: "Websites", 
-             3: "Other Github Repositories", 4: "Academic Papers",}  
+resources = ["Books", "Websites", "Other Repos"]
+additional_resource = resources.append("Academic Papers")
+
+topics = {"Programming": ["Python", "R"],
+          "Statistics": ["Coming Soon!"],
+          "Econometrics": ["OLS regression analysis", "Microeconometrics & Statistical Models", "Time Series"
+                           "Applied Econometrics + Causal Inference", "Computational Methods in Econometrics"],}  
 ```
 
 Select the titles to go to the relevant sections.
