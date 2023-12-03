@@ -173,7 +173,7 @@ Coming soon!
 <br>
 -> Some resources have a github repository and a website. For these, I have included them in one of the sections only. 
 <br> 
--> All of the resources listed here are intended to be entirely free to use, thereby omitting some popular resources. 
+-> All of the resources listed here are intended to be entirely free to use, thereby omitting some popular resources. Please refer to the contribute section if you would like to add anything that's missing.
 <br>
 - Don't forget to share this with anyone who might find it useful as well!
 </details> 
