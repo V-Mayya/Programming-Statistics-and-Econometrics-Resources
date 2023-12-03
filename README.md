@@ -40,7 +40,7 @@ Python fundamentals: books, websites and other github repos
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
-| Python Cheatsheet | For quick reference, covering various concepts (loops, functions, OOP and more). Based on 'Automate the Boring Stuff with Python' book and other sources. | [Link](https://www.pythoncheatsheet.org/) | Learn |
+| Python Cheatsheet | For quick reference, covering various topics (loops, functions, OOP and more). Based on 'Automate the Boring Stuff with Python' book and other sources. | [Link](https://www.pythoncheatsheet.org/) | Learn |
 
 ‣ Great Github repos!
 | Name | Description | Link 🔗 | Learn/Practice |
@@ -163,9 +163,9 @@ Coming soon!
 <details close>
 <summary> Are these resources suitable for those with a beginner, intermediate, or advanced background? </summary>
 <br>
-- The resources are intended to suit individuals with varying backgrounds. There's something for everyone!   
+- The resources are intended to suit individuals with varying backgrounds.    
  <br>
-- You can find out the levels by reading the descriptions and selecting the relevant links.
+- You can get an idea of the levels by reading the descriptions and selecting the relevant links.
 </details> 
 
 Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jess Bailey</a> on <a href="https://unsplash.com/photos/close-up-photography-of-two-pencils-on-closed-pink-covered-book-on-desk-near-macbook-air-in-a-well-lit-room-K47Tk9IEQPQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> 
