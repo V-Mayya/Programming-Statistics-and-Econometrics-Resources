@@ -5,7 +5,7 @@
 <img src="Images/img.jpg" width="500" height="400" /> 
 
 <details close>
-<summary> <b> Programming </b> </summary>
+<summary> 🎯 <b> Programming </b> </summary>
 <br> 
   
 ## Contents 
@@ -17,10 +17,10 @@
   <br> 📌 [Apps](#apps_py)
  
 - **R**
-  1. [Fundamentals](#fundamentals_r)
-  2. [Data analytics & Data Science](#data_r)
-  3. [Algorithms & Data Structures](#algo_r)
-  4. [Apps](#apps_r)
+  <br> 📌 [Fundamentals](#fundamentals_r)
+  <br> 📌 [Data analytics & Data Science](#data_r)
+  <br> 📌 [Algorithms & Data Structures](#algo_r)
+  <br> 📌 [Apps](#apps_r)
 
 (currently Python and R primarily)
 
@@ -115,7 +115,7 @@ Python apps: books, websites and other github repos
 </details> 
 
 <details close>
-<summary> <b> Statistics </b> </summary>
+<summary> 🎯 <b> Statistics </b> </summary>
 <br> 
 
 Coming soon! 
@@ -123,7 +123,7 @@ Coming soon!
 </details> 
 
 <details close>
-<summary> <b> Econometrics + Causal Inference </b> </summary>
+<summary> 🎯 <b> Econometrics + Causal Inference </b> </summary>
 <br> 
 
 Coming soon! 
