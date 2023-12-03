@@ -5,7 +5,7 @@
 <img src="Images/img.jpg" width="500" height="400" /> 
 
 <details close>
-<summary> <b> Programming </b> </summary>
+<summary> <b> Programming </b> 🧑‍💻 </summary>
 <br> 
   
 ## Contents 
@@ -47,7 +47,7 @@ Python fundamentals: books, websites and other github repos
 | Paragraph | Text | Link | Practice |
 
 <a name="data_py"></a>  
-## Data analytics & Data Science 
+## 🎯 Data analytics & Data Science 
 Python data analytics and data science resources: books, websites and other github repos
 
 ‣ Books 📚 
@@ -69,7 +69,7 @@ Python data analytics and data science resources: books, websites and other gith
 | Awesome Public Datasets | A list of brilliant public datasets in various domains (ranging from climate to cancer)| [Link](https://github.com/awesomedata/awesome-public-datasets#economics) | Practice | 
 
 <a name="algo_py"></a> 
-## Algorithms & Data Structures 
+## 🎯 Algorithms & Data Structures 
 Python algorithms and data structures: books, websites and other github repos
 
 ‣ Books 📚
@@ -91,7 +91,7 @@ Python algorithms and data structures: books, websites and other github repos
 | Paragraph | Text | Link |
 
 <a name="apps_py"></a> 
-## Apps 
+## 🎯 Apps 
 Python apps: books, websites and other github repos
 
 ‣ Books 📚
@@ -115,7 +115,7 @@ Python apps: books, websites and other github repos
 </details> 
 
 <details close>
-<summary> 🎯 <b> Statistics </b> </summary>
+<summary> <b> Statistics </b> 📊 </summary>
 <br> 
 
 Coming soon! 
@@ -123,7 +123,7 @@ Coming soon!
 </details> 
 
 <details close>
-<summary> 🎯 <b> Econometrics + Causal Inference </b> </summary>
+<summary> <b> Econometrics + Causal Inference </b> 📈 </summary>
 <br> 
 
 Coming soon! 
