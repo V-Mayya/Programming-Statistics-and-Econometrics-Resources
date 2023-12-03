@@ -42,7 +42,7 @@ Python fundamentals: books, websites and other github repos
 
 ‣ Great Github repos!
 | Name | Description | Link 🔗 | Learn/Practice |
-| :---: | ----------- | --- | --- |
+| :---: | ----------- | ---- | --- |
 | Full Speed Python | For self-learners with topics and exercises | [Link](https://github.com/joaoventura/full-speed-python) | Learn + Practice (exercises from the Superior School of Technology of Setúbal) |  
 | Paragraph | Text | Link | Practice |
 
