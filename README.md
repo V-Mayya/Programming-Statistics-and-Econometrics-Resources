@@ -40,7 +40,7 @@ Python fundamentals: books, websites and other github repos
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
-| Paragraph | Text | Link | Practice |
+| Python Cheatsheet | For quick reference, covering various concepts (loops, functions, OOP and more). Based on 'Automate the Boring Stuff with Python' book and other sources. | [Link](https://www.pythoncheatsheet.org/) | Learn |
 
 ‣ Great Github repos!
 | Name | Description | Link 🔗 | Learn/Practice |
