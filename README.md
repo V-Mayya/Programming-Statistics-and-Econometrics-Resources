@@ -9,9 +9,9 @@ Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopy
 <summary><b> Programming </b></summary>
 <br>
 
+## Contents 
 (currently Python and R primarily) 
 
-### Contents 
 - Python
   1. [Fundamentals](#fundamentals_py)
   2. [Data analytics & Data Science](#data_py)
