@@ -21,27 +21,35 @@ Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_content=creditCopy
   3. [Algorithms & Data Structures](#algo_r)
   4. [Apps](#apps_r)
 
-<details close> 
- <summary><b> Fundamentals (Python) </b> <a name="fundamentals_py"></a> </summary>
-<br>
- 
-‣ Books
+
+#### Fundamentals (Python) </b> <a name="fundamentals_py"></a> </summary>
+Python fundamentals: books, websites and other github repos
+
+<details close>  
+<summary><b> Books </b> </summary>
+  
 | Name | Description | Link | Learn/Practice |
 | :---: | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
+</details>  
 
-‣ Websites 
+<details close>  
+<summary><b> Websites </b> </summary>
+  
 | Name | Description | Link | Learn/Practice |
 | :---: | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
 | Paragraph | Text | Link | Practice |
+</details> 
 
-‣ Great Github repos!
-| Name | Description | Link |
-| :---: | ----------- | --- |
-| Header | Title | Link |
-| Paragraph | Text | Link | 
+<details close>  
+<summary><b> Great Github Repos </b> </summary>
+  
+| Name | Description | Link | Learn/Practice |
+| :---: | ----------- | --- | --- |
+| Header | Title | Link | Learn | 
+| Paragraph | Text | Link | Practice |
 </details> 
 
 <details close> 
