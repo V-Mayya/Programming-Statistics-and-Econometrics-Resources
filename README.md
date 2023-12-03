@@ -72,6 +72,8 @@ Python data analytics and data science resources: books, websites and other gith
 | Header | Title | Link | Learn | 
 | Awesome Public Datasets | A list of brilliant public datasets in various domains (ranging from climate to cancer)| [Link](https://github.com/awesomedata/awesome-public-datasets#economics) | Practice | 
 
+[Back to contents](#contents_prog)
+
 <a name="algo_py"></a> 
 ## 🎯 Algorithms & Data Structures 
 Python algorithms and data structures: books, websites and other github repos
@@ -94,6 +96,8 @@ Python algorithms and data structures: books, websites and other github repos
 | The Algorithms | Search up any algorithm to find out more | [Link](https://github.com/TheAlgorithms/Python) | Learn |
 | Paragraph | Text | Link | Learn |
 
+[Back to contents](#contents_prog)
+
 <a name="apps_py"></a> 
 ## 🎯 Apps 
 Python apps: books, websites and other github repos
@@ -115,6 +119,8 @@ Python apps: books, websites and other github repos
 | --- | ----------- | --- | --- |
 | Header | Title | Link | Learn |
 | Paragraph | Text | Link | Learn |
+
+[Back to contents](#contents_prog)
 
 </details> 
 
