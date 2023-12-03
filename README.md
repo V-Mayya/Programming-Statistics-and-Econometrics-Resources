@@ -1,2 +1,7 @@
-# Programming, Statistics and Econometrics Resources
-Repo with all programming, stats and econometrics resources I've come across online (books, websites, other repos and more), all in one place!
+# Programming, Statistics, and Econometrics Resources
+**Repo with resources I've come across online, all in one place!**
+
+--- 
+<img src="Images/thumbnail.png" width="500" height="270" /> 
+
+---  
