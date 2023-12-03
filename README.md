@@ -233,7 +233,7 @@ Coming soon!
 <br>
 - The topics interest me and will help me keep track of my progress and learning (and hope this does the same for you as well!) They are also suited for those interested in (academic or professional) careers or topics at the intersection of econometrics, statistics and programming.
  <br>
-- Resources in the econometrics and statistics sections provide guidance on statistical models, causal inference, time series analysis, and more, making them especially useful for those interested in data science and machine learning. Each of the statistics and econometrics areas also has resources on applications to programming as well.
+- Resources in the econometrics and statistics sections provide guidance on statistical models, causal inference, time series analysis, and more, making them especially useful for those interested in data science and machine learning. Each of the statistics and econometrics areas has resources on applications to programming as well.
  <br>
 - Having everything in one place makes it much easier to find resources without having to search through the vast amount of information in various locations (that's probably not organised well too!) You're more likely to delve into an area if you're provided with sufficient details and can find adequate information and resources to get started.
 </details>
