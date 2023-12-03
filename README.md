@@ -207,9 +207,9 @@ Coming soon!
 <details close>
 <summary> How can I contribute? </summary>
 <br>
-- This repo certainly isn't exhaustive, so I'd be glad to receive any contributions. 
+- Any contributions are welcome, as this repo is certainly not exhaustive. 
 <br> 
-- If you would like to, please get in touch on Linkedin or email in my profile homepage (readme or site).
+- If you would like to, please get in touch on Linkedin or email [in my profile homepage (readme or site)].
 <br>
 - Don't forget to share this with anyone who might find it useful as well!
 </details>
@@ -219,7 +219,7 @@ Coming soon!
 <br>
 - The topics interest me and will help me keep track of my progress and learning (and hope this does the same for you as well!) They are also suited for those interested in careers or topics at the intersection of econometrics, statistics and programming.
  <br>
-- Resources in the econometrics and statistics sections provide guidance on statistical models, causal inference, time series analysis, and more, making them especially useful for those interested in data science and machine learning. Each of the statistics and econometrics areas also has resources that have applications to programming as well.
+- Resources in the econometrics and statistics sections provide guidance on statistical models, causal inference, time series analysis, and more, making them especially useful for those interested in data science and machine learning. Each of the statistics and econometrics areas also has resources on applications to programming as well.
  <br>
 - Having everything in one place makes it much easier to find resources without having to search through the vast amount of information in various locations (that's probably not organised well too!) You're more likely to delve into an area if you're provided with sufficient details and can find adequate information and resources to get started.
 </details>
