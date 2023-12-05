@@ -226,7 +226,7 @@ Coming soon!
 | Name | Description | Link 🔗 | Learn/Practice |
 | --- | ----------- | --- | --- |
 | Header | Title | Link | Learn | 
-| The Mixtape with Scott | A podcast involving discussions with economists, scientists and more. The site also includes sessions on causal inference methods. | [Link](https://causalinf.substack.com/podcast) | Practice |
+| The Mixtape with Scott | A podcast involving discussions with economists, scientists and more. The site also includes sessions on causal inference methods. | [Link](https://causalinf.substack.com/podcast) | Learn |
 
 ‣ Github repos
 | Name | Description | Link 🔗 | Learn/Practice |
