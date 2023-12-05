@@ -212,7 +212,67 @@ Coming soon!
 📌 **Computational Methods in Econometrics**
 - [Fundamentals](#fundamentals_comp_econ)
 
-Coming soon!  
+<a name="fundamentals_applied"></a> 
+## 🎯 Fundamentals of Causal Inference
+> Causal inference fundamentals including Judea Pearl's work, DAGs, matching, and more!
+
+‣ Books 📚
+| Name | Description | Link 🔗 | Learn/Practice |
+| --- | ----------- | --- | --- |
+| Header | Title | Link | Learn | 
+| Paragraph | Text | Link | Practice |
+
+‣ Websites 💻
+| Name | Description | Link 🔗 | Learn/Practice |
+| --- | ----------- | --- | --- |
+| Header | Title | Link | Learn | 
+| | Text | | Practice |
+
+‣ Github repos
+| Name | Description | Link 🔗 | Learn/Practice |
+| --- | ----------- | --- | --- |
+| Header | Title | Link | Learn |
+| | |  | Practice |
+
+‣ Academic Papers
+| Name | Description | Link 🔗 | Learn/Practice |
+| --- | ----------- | --- | --- |
+| Header | Title | Link | Learn |
+| | |  | Practice |
+
+[Back to contents](#contents_prog)
+
+<a name="diff_in_diff"></a> 
+## 🎯 Difference in Differences
+> All about the estimating technique, assumptions, violations and more!
+
+‣ Books 📚
+| Name | Description | Link 🔗 | Learn/Practice |
+| --- | ----------- | --- | --- |
+| Header | Title | Link | Learn | 
+| Paragraph | Text | Link | Practice |
+
+‣ Websites 💻
+| Name | Description | Link 🔗 | Learn/Practice |
+| --- | ----------- | --- | --- |
+| Header | Title | Link | Learn | 
+| | Text | | Practice |
+
+‣ Github repos
+| Name | Description | Link 🔗 | Learn/Practice |
+| --- | ----------- | --- | --- |
+| Header | Title | Link | Learn |
+| | |  | Practice |
+
+‣ Academic Papers
+| Name | Description | Link 🔗 | Learn/Practice |
+| --- | ----------- | --- | --- |
+| Header | Title | Link | Learn |
+| Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania | Labour market effects of an increase in the minimum wage in New Jersey in 1992 | [Link](https://davidcard.berkeley.edu/papers/njmin-aer.pdf) | Learn |
+
+[Back to contents](#contents_prog)
+
+..Others coming soon!  
 
 </details> 
 
