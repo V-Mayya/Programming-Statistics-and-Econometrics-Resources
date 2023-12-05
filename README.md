@@ -240,7 +240,7 @@ Coming soon!
 | Header | Title | Link | Learn |
 | | |  | Practice |
 
-[Back to contents](#contents_prog)
+[Back to contents](#contents_econ)
 
 <a name="diff_in_diff"></a> 
 ## 🎯 Difference in Differences
@@ -270,7 +270,7 @@ Coming soon!
 | Header | Title | Link | Learn |
 | Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania | Labour market effects of an increase in the minimum wage in New Jersey in 1992 | [Link](https://davidcard.berkeley.edu/papers/njmin-aer.pdf) | Learn |
 
-[Back to contents](#contents_prog)
+[Back to contents](#contents_econ)
 
 ..Others coming soon!  
 
@@ -304,6 +304,8 @@ Coming soon!
 - The resources are intended to suit individuals with varying backgrounds.    
  <br>
 - You can get an idea of the levels by reading the descriptions and selecting the relevant links.
+<br>
+- You're welcome to contribute by adding an additional column to the tables and providing this information!
 </details> 
 
 <details close>
